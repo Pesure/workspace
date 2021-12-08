@@ -1,6 +1,5 @@
 TEST
 2021/12/5
-18：20
-conflict1
+6：20
 new line
 work is finished
